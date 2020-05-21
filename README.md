@@ -1,4 +1,5 @@
 # C++ Lua Compiler
+![Icon](https://imgur.com/a/PxwwcUC)
 This program can compile Lua code in a C++ console window.![Compiler screenshot](https://i.imgur.com/zt5bpNg.png)
 ## Features
 ### Realtime console window name changes
